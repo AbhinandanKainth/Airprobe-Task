@@ -54,7 +54,7 @@ class App extends React.Component {
         <Header currentUser={this.state.currentUser} />
         <HomePage currentUser={this.state.currentUser} />
         <Switch>
-          <Route path='/signin' component={SignInAndSignUpPage} />
+          <Route path='/Airprobe-Task/signin' component={SignInAndSignUpPage} />
         </Switch>
       </div>
     );
