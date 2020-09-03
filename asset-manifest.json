@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Airprobe-Task/static/css/main.259184ef.chunk.css",
+    "main.js": "/Airprobe-Task/static/js/main.d1c7e037.chunk.js",
+    "main.js.map": "/Airprobe-Task/static/js/main.d1c7e037.chunk.js.map",
+    "runtime-main.js": "/Airprobe-Task/static/js/runtime-main.08189c57.js",
+    "runtime-main.js.map": "/Airprobe-Task/static/js/runtime-main.08189c57.js.map",
+    "static/js/2.04868a54.chunk.js": "/Airprobe-Task/static/js/2.04868a54.chunk.js",
+    "static/js/2.04868a54.chunk.js.map": "/Airprobe-Task/static/js/2.04868a54.chunk.js.map",
+    "index.html": "/Airprobe-Task/index.html",
+    "precache-manifest.404157b1992596e67528cfec7aeb6ca6.js": "/Airprobe-Task/precache-manifest.404157b1992596e67528cfec7aeb6ca6.js",
+    "service-worker.js": "/Airprobe-Task/service-worker.js",
+    "static/css/main.259184ef.chunk.css.map": "/Airprobe-Task/static/css/main.259184ef.chunk.css.map",
+    "static/js/2.04868a54.chunk.js.LICENSE.txt": "/Airprobe-Task/static/js/2.04868a54.chunk.js.LICENSE.txt",
+    "static/media/logo.PNG": "/Airprobe-Task/static/media/logo.45a9b37b.PNG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.08189c57.js",
+    "static/js/2.04868a54.chunk.js",
+    "static/css/main.259184ef.chunk.css",
+    "static/js/main.d1c7e037.chunk.js"
+  ]
+}
