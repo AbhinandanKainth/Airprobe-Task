@@ -38,6 +38,7 @@ $main-color: black;
   }
 
   .form-input-label {
+    z-index: 1;
     color: $sub-color;
     font-size: 16px;
     font-weight: normal;
